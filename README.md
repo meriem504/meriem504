@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋, I'm [meriem]
 
-<!--
-**meriem504/meriem504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate [Votre spécialisation]
 
-Here are some ideas to get you started:
+🌱 I'm looking to collaborate on **anything that can make life better**  
+💬 Ask me about **anything in relation with [Votre domaine]**  
+📫 How to reach me: [votre-email@example.com]  
+⚡ IT Quote: **"Clean code always looks like it was written by someone who cares." — Robert C. Martin**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/votre-profil)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/votre-profil)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/votre-profil)
+
+### Languages and Tools:
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
