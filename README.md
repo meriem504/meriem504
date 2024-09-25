@@ -1,6 +1,8 @@
-# Hi 👋, I'm [meriem]
 
-A passionate [Votre spécialisation]
+# Hi 👋, I'm Meriem Jatlaoui
+A passionate Cloud/DevOps engineer
+
+- 🌱 I’m looking to collaborate on **anything that can make life better**
 
 🌱 I'm looking to collaborate on **anything that can make life better**  
 💬 Ask me about **anything in relation with [Votre domaine]**  
