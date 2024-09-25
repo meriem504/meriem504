@@ -9,7 +9,7 @@
 ⚡ IT Quote: **"Clean code always looks like it was written by someone who cares." — Robert C. Martin**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/meriem-jatlaoui-832601251/ )
+[![LinkedIn](https://img.icons8.com/?size=512&id=13930&format=png)](https://www.linkedin.com/in/meriem-jatlaoui-832601251/ )
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/votre-profil)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/votre-profil)
 
