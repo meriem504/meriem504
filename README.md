@@ -5,12 +5,12 @@ A passionate Cloud/DevOps engineer
 <h3 align="center">A passionate ia  engineer</h3>
 
 🌱 I'm looking to collaborate on **anything that can make life better**  
-💬 Ask me about **anything in relation with [Votre domaine]**  
-📫 How to reach me: [votre-email@example.com]  
+💬 Ask me about **anything in relation with it **  
+📫 How to reach me: meriemjatlaoui3@gmail.com 
 ⚡ IT Quote: **"Clean code always looks like it was written by someone who cares." — Robert C. Martin**
 
 ### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://www.linkedin.com/in/meriem-jatlaoui-832601251/ )
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook)](https://facebook.com/votre-profil)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat&logo=instagram)](https://instagram.com/votre-profil)
 
